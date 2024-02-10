@@ -24,9 +24,15 @@
 </div>
 
 
+## 📊 GitHub Stats:
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ozaiithejava&show_icons=true&count_private=true&theme=nord" alt="GitHub Stats" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozaiithejava&layout=compact&theme=nord" alt="Top Languages" />
+</p>
 
-
-
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=Dsngxddd&show_icons=true&theme=radical)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=ozaiithejava&label=VISITORS&labelColor=%23ba68c8&countColor=%23263759&style=flat-square&labelStyle=none)](https://visitorbadge.io/status?path=ozaiithejava)
+![GitHub User's stars](https://img.shields.io/github/stars/ozaiithejava?style=flat-square&logo=github&logoColor=white&label=My%20Star'S&labelColor=black&color=purple)
