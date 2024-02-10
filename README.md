@@ -20,7 +20,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/php/777BB4" height="30" alt="php logo"  />
   <img width="12" />
-  <img src="[[https://cdn.simpleicons.org/php/777BB4](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png)](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/512px-CSS3_logo.svg.png?20210705212817)" height="30" alt="css"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" height="30" alt="css"  />
   <img width="12" />
 </div>
 
